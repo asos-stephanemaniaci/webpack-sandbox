@@ -1,0 +1,17 @@
+{
+  "name": "archilogos",
+  "version": "1.0.0",
+  "description": "how the fuck does it all work",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "express": "^4.16.2",
+    "react": "^16.2.0",
+    "webpack": "^3.11.0"
+  }
+}
